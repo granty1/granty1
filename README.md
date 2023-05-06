@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @granty1
-- 📫 How to reach me ...
+- 📫 How to reach me granty1@126.com
+- Go、Docker、Database、Network、Linux、Vue、GameServer、Service Mesh、CI/CD、ELK、Prometheus
