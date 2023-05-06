@@ -1,3 +1,19 @@
 - 👋 Hi, I’m @granty1
-- 📫 How to reach me granty1@126.com
-- Go、Docker、Database、Network、Linux、Vue、GameServer、Service Mesh、CI/CD、ELK、Prometheus
+- 📫 granty1@126.com
+- :sweat_drops:
+  - Go
+  - Rust
+  - C++
+  - TS&JS
+  - Python
+- :fire:
+  - Docker
+  - Database
+  - Network
+  - Linux
+  - Vue
+  - GameServer
+  - Service Mesh
+  - CI/CD
+  - ELK
+  - Prometheus
