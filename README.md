@@ -7,8 +7,16 @@
   - TS&JS
   - Python
 - :fire:
-  - Docker
+  - Container
+    - Docker
+    - Containerd
+    - Runc
+    - K8s
   - Database
+    - MySQL
+    - Redis
+    - TiDB
+    - InfluxDB
   - Network
   - Linux
   - Vue
