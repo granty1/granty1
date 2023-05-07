@@ -20,8 +20,8 @@
   - Network
   - Linux
   - Vue
-  - GameServer
+  - Game Server
   - Service Mesh
   - CI/CD
   - ELK
-  - Prometheus
+  - Prometheus / Exporter
